@@ -3,12 +3,6 @@ package rpg;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 
-/**
- * Class for animations, e.g. explosion.
- * 
- * @author www.gametutorial.net
- */
-
 public class Animation {
 
     // Image of animation.
