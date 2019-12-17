@@ -1,0 +1,7 @@
+3
+src/rpg/resources/images/monster/girl.png
+16 53 120 10 0 60 1.5 10 30 26 54 1
+src/rpg/resources/images/monster/xahoiden.png
+70 16 60 45 0 80 1.5 40 5 70 19 2
+src/rpg/resources/images/monster/boxuong.png
+54 50 50 80 0 120 1.5 30 30 70 50 3
